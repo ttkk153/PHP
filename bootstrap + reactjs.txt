@@ -2,3 +2,7 @@ https://freetuts.net/grid-system-trong-bootstrap-3-174.html
 https://freetuts.net/tong-quan-ve-twitter-bootstrap-3-171.html
 https://freetuts.net/hoc-bootstrap
 https://freetuts.net/reactjs
+
+Nhiem vu can lam
+1. Khi click vao bieu tuong menu tren dt de thu nho lai, phai xu ly tat ca (tat ca cung phai thu nho)
+2. Thay doi icon + -
