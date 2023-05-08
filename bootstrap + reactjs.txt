@@ -10,3 +10,17 @@ Nhiem vu can lam
 
 
 https://mangvn.org/index.php/Thiet-ke-Web/Gioi-thieu-ve-jQuery-Thu-vien-JavaScript-cho-thiet-ke-website-hieu-ung-749.html
+
+https://xinchaocoder.com/huong-dan-tao-slideshow-bang-owl-carousel/
+https://owlcarousel2.github.io/OwlCarousel2/docs/api-options.html
+https://unitop.com.vn/owl-carousel.html/
+https://webdesign.tutsplus.com/vi/tutorials/how-to-build-a-full-screen-responsive-carousel-slider-with-owljs--cms-31771
+https://www.mauthemeblog.com/cach-lam-cho-owl-carousel-hap-dan-hon
+https://codepen.io/dangvantanofficial/pen/dymKZJQ
+https://www.itcweb.net/jquery-huong-dan-tao-function-next-previous-cho-button-owl-carousel-2
+https://viblo.asia/p/html-css-xay-dung-mot-slide-anh-carousel-don-gian-vyDZORX9Kwj
+
+
+
+
+
