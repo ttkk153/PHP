@@ -7,8 +7,6 @@ Nhiem vu can lam
 1. Khi click vao bieu tuong menu tren dt de thu nho lai, phai xu ly tat ca (tat ca cung phai thu nho)
 2. Thay doi icon + -
 
-
-
 https://mangvn.org/index.php/Thiet-ke-Web/Gioi-thieu-ve-jQuery-Thu-vien-JavaScript-cho-thiet-ke-website-hieu-ung-749.html
 
 https://xinchaocoder.com/huong-dan-tao-slideshow-bang-owl-carousel/
@@ -20,7 +18,8 @@ https://codepen.io/dangvantanofficial/pen/dymKZJQ
 https://www.itcweb.net/jquery-huong-dan-tao-function-next-previous-cho-button-owl-carousel-2
 https://viblo.asia/p/html-css-xay-dung-mot-slide-anh-carousel-don-gian-vyDZORX9Kwj
 
-
-
-
+https://www.w3schools.com/howto/howto_js_popup.asp
+https://blog.luyencode.net/popup-alert-trong-javascript/
+http://hocwebgiare.com/blog-detail/Javascript/post57/Tao-popup-quang-cao-nam-o-goc-phai-website.html
+http://hocwebgiare.com/blog-detail/Jquery/post115/Huong-dan-tao-cua-so-Popup-don-gian-bang-JQUERY.html
 
